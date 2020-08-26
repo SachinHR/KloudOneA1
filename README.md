@@ -1,1 +1,1 @@
-KloudOne Task - 1
+KloudOne Task-1
